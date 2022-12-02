@@ -1,0 +1,1 @@
+Crear un formulario HTML5 donde se ingrese el nombre, apellido, correo, género y fecha de nacimiento de un cliente, usando el lenguaje JavaScript y la librería jQuery capture los datos ingresados por teclado y muestre en un mensaje de alerta.
